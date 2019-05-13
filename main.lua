@@ -1,6 +1,6 @@
 -----------------------------------------------------------------------------------------
 --
--- Created by: Aden Rao
+-- Created by: Teddy Sannan
 -- Created on: April 12, 2019
 --
 -- This program puts a text field on the screen and it lets the user guess my age and it gives them hints as to if I am older or younger each time they guess 
